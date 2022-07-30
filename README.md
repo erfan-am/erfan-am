@@ -21,8 +21,8 @@
     <h2>🛠 Technologies and Languages</h2>
     <ul>
         <li><a href="https://www.javascript.com/" class="btn btn-primary">Javascript</a></li>
-        <li><a href="https://reactjs.org/" class="btn btn-primary">react</a></li>
-        <li><a href="https://reduxjs.org/" class="btn btn-primary">Redux</a></li>
+        <li><a href="https://reactjs.org/" class="btn btn-primary">Reactjs</a></li>
+        <li><a href="https://reduxjs.org/" class="btn btn-primary">Reduxjs</a></li>
         <li><a href="" class="btn btn-primary">Python</a></li>
         <li><a href="" class="btn btn-primary">Django</a></li>
         <li><a href="" class="btn btn-primary">bootstrap</a></li>
