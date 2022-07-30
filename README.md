@@ -31,5 +31,10 @@
         <li><a href="" class="btn btn-primary">Sass</a></li>
         <li><a href="" class="btn btn-primary">HTML&CSS</a></li>
     </ul>
+    
+    <hr>
+    
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?erfan-am=anuraghazra&show_icons=true&theme=radical)
+
   </body>
 </html>
