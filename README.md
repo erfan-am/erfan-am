@@ -32,9 +32,10 @@
         <li><a href="" class="btn btn-primary">HTML&CSS</a></li>
     </ul>
     
-    <hr>
-    
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/apierfan-am=anuraghazra&show_icons=true&theme=radical)
-
+<h2>📊 My Statistics</h2>   
+  <p>
+    <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=erfan-am&amp;show_icons=true&amp;theme=ayu-mirage&amp;hide_border=true" style="max-width: 100%;">
+ <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=erfan-am&amp;theme=ayu-mirage&amp;hide_border=true" style="max-width: 100%;"></p>
+ <img src="https://activity-graph.herokuapp.com/graph?username=erfan-am&amp;theme=react-dark" style="max-width: 100%;">
   </body>
 </html>
