@@ -6,7 +6,10 @@
   </head>
   <body>
     <h1 class="text-center">Hi 😇 I'm Erfan Amini!</h1>
-      <h3>Jop title:</h3> <img          src="https://camo.githubusercontent.com/43b56d7990e02bf3a57f6e8b7641d1fec7ac0818709be564e5eb60bc515d1fd8/68747470733a2f2f726561646d652d747970696e672d7376672e6865726f6b756170702e636f6d3f73697a653d313926636f6c6f723d304639444145266261636b67726f756e643d4646324330303030266d756c74696c696e653d74727565266c696e65733d46726f6e74656e642b446576656c6f706572">
+      <h3>Jop title:</h3> 
+      <h5>As frontend Engineer, I describe myself a passionate developer who loves coding, open source, and the web platform ❤️.</h5>
+
+     <img src="https://camo.githubusercontent.com/43b56d7990e02bf3a57f6e8b7641d1fec7ac0818709be564e5eb60bc515d1fd8/68747470733a2f2f726561646d652d747970696e672d7376672e6865726f6b756170702e636f6d3f73697a653d313926636f6c6f723d304639444145266261636b67726f756e643d4646324330303030266d756c74696c696e653d74727565266c696e65733d46726f6e74656e642b446576656c6f706572">
       <img src="https://marketingsolutions.endeavorb2b.com/wp-content/uploads/2017/11/webdesign-header.jpg" width="100%" >
     <hr>
     <h2>📠 Connect with me </h2>
